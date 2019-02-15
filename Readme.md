@@ -16,3 +16,7 @@ go
 
 - make sure to update connection string template in appsettings.json 
 - run
+
+sharding is based on integer value included in header `naive-key`  
+- GET  {host}\api\Customers  for listing  
+- POST {host}\api\Customers  for creating  
