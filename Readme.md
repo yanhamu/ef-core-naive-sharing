@@ -1,6 +1,6 @@
-﻿# Naive Sharding using Entity Framework Core
+# Naive Sharding using Entity Framework Core
 
-# make sure to create databases
+- make sure to create databases
 ```sql
 create database shard_0
 go
